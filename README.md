@@ -7,3 +7,6 @@ Also included in this repository is processChat.py which contains useful functio
 
 
 For creating your own data set, check out my Twitch Chat Bot repository.  Using the bot will allow you to connect to live Twitch chat irc channels and write the data to file for use in the RNN.
+
+
+In the end we're using gibberish to generate gibberish.  But I had alot of fun putting this together.
